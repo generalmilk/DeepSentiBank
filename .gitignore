@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/release
+/caffe_sentibank_train_iter_250000
+/gitcommand.txt
+/extract_nfeatures.bat
+/extract_nfeatures.exe
+/leveldb_cc_dll.dll
+/libgcc_s_seh-1.dll
+/libgfortran-3.dll
+/libglog.dll
+/libopenblas.dll
+/libquadmath-0.dll
+/libwinpthread-1.dll
+/opencv_core248.dll
+/opencv_core248d.dll
+/opencv_highgui248.dll
+/opencv_highgui248d.dll
+/opencv_imgproc248.dll
+/opencv_imgproc248d.dll
+/opencv_objdetect248.dll
+/opencv_objdetect248d.dll
+/read_features.m
